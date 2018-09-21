@@ -1,0 +1,12 @@
+[submodule "libraries/IdentityServer4"]
+	path = libraries/IdentityServer4
+	url = https://github.com/IdentityServer/IdentityServer4.git
+[submodule "libraries/IdentityServer4.AccessTokenValidation"]
+	path = libraries/IdentityServer4.AccessTokenValidation
+	url = https://github.com/IdentityServer/IdentityServer4.AccessTokenValidation
+[submodule "libraries/IdentityServer4.EntityFramework"]
+	path = libraries/IdentityServer4.EntityFramework
+	url = https://github.com/IdentityServer/IdentityServer4.EntityFramework
+[submodule "libraries/IdentityServer4.AspNetIdentity"]
+	path = libraries/IdentityServer4.AspNetIdentity
+	url = https://github.com/IdentityServer/IdentityServer4.AspNetIdentity
